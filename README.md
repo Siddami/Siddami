@@ -70,6 +70,19 @@ Through this experience, I gained valuable leadership, project management, and p
 
 <hr>
 
+
+## 🐍 My Contributions
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Siddami/Siddami/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Siddami/Siddami/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Siddami/Siddami/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+<hr>
+
 ### 🌱 Let's Connect!  
 Feel free to reach out for collaborations, open-source contributions, or just to connect:  
 <div align="center">
@@ -85,18 +98,6 @@ Feel free to reach out for collaborations, open-source contributions, or just to
   <a href="https://x.com/sid_the_dev" target="_blank">
     <img src="https://img.shields.io/badge/x-1e1f26?style=for-the-badge&logo=x&logoColor=white" target="_blank" />
   </a>
-</div>
-
-<hr>
-
-## 🐍 My Contributions
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Siddami/Siddami/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Siddami/Siddami/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Siddami/Siddami/output/github-contribution-grid-snake.svg" />
-  </picture>
 </div>
 
 <hr>
