@@ -47,7 +47,7 @@ Through this experience, I gained valuable leadership, project management, and p
 ## Tools and Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,firebase,recharts" />
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,firebase,mui" />
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,redux,git,figma" />
 </p>
 
