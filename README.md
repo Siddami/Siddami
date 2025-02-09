@@ -10,7 +10,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=800&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Abdulkareem+Yetunde!;" />
 </h1>
 
-I’m a **Frontend Developer** and **Tech Enthusiast** with a background in **Sociology** from the University of Ilorin. I’m also a **certified Frontend Developer** from the [3MTT Software Engineering](https://drive.google.com/file/d/1Fkqiaes32CLdGhBA88sgnznIJ8smGKrQ/view?usp=sharing) track and have completed [CS50’s Introduction to Computer Science](https://drive.google.com/file/d/1bbpY7yy-bWFx3Ydag9qH_dSx493hLtmE/view?usp=sharing).  
+## A **Frontend Developer** and **Tech Enthusiast** with a background in **Sociology** from the University of Ilorin. I’m also a **certified Frontend Developer** from the [3MTT Software Engineering](https://drive.google.com/file/d/1Fkqiaes32CLdGhBA88sgnznIJ8smGKrQ/view?usp=sharing) track and have completed [CS50’s Introduction to Computer Science](https://drive.google.com/file/d/1bbpY7yy-bWFx3Ydag9qH_dSx493hLtmE/view?usp=sharing).  
 
 I specialize in building **user-centric, accessible, and responsive web experiences** that are both visually engaging and highly functional. My journey in tech has been fueled by continuous learning, including completing the **[100DaysOfCode](https://www.linkedin.com/posts/siddiqat_100daysofcode-100daysofcode-womentechsters-activity-7227420303662956546-F5E8?) challenge**, where I leveraged resources like **[Asabeneh 30 Days of JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript)** to strengthen my skills.  
 
