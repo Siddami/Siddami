@@ -42,6 +42,7 @@ During the final phase of my **3MTT program**, I was a **Team Lead** for our cap
 - **Maintaining open communication to foster smooth collaboration.**
 
 Through this experience, I gained valuable leadership, project management, and problem-solving skills while working in a collaborative environment. 
+
 ---
 
 ## Tools and Languages
