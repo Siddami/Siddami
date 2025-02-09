@@ -2,6 +2,8 @@
   <p>Visitor count</p>
   <img src="https://profile-counter.glitch.me/Siddami/count.svg" alt="Visitor's Count" />
 </div>
+
+
 <img src="https://github.com/Siddami/Siddami/blob/main/githeader-sid.png" alt="Banner of a greeting and introduction of myself and stack with a DEV icon next to it on the far right" style="width:100%">
 
 # Hi there, I'm Siddiqat 👋
