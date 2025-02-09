@@ -1,3 +1,8 @@
+<div align="center"> 
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/{USERNAME}/count.svg" alt="Visitor's Count" />
+</div>
+
 # Hi there, I'm Siddiqat 👋
 
 I'm a **Frontend Developer** and **Tech Enthusiast** passionate about creating user-centric, accessible, and responsive web experiences. With a strong foundation in web development and a growing portfolio of projects, I enjoy solving problems, building engaging designs, and collaborating on impactful projects.  
