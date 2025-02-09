@@ -42,11 +42,10 @@ During the final phase of my **3MTT program**, I was a **Team Lead** for our cap
 Through this experience, I gained valuable leadership, project management, and problem-solving skills while working in a collaborative environment. 
 ---
 
-<br>
 ## Tools and Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,firebase" />
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,firebase,recharts" />
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,redux,git,figma" />
 </p>
 
