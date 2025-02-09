@@ -2,6 +2,7 @@
   <p>Visitor count</p>
   <img src="https://profile-counter.glitch.me/Siddami/count.svg" alt="Visitor's Count" />
 </div>
+![Header](./your-header-image-name.png)
 
 # Hi there, I'm Siddiqat 👋
 
