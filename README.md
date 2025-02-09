@@ -4,7 +4,7 @@
 </div>
 
 
-<img src="https://github.com/Siddami/Siddami/blob/main/githeader-sid.png" alt="Banner of a greeting and introduction of myself and stack with a DEV icon next to it on the far right" style="width:100%; margin-top: 30px;">
+<img src="https://github.com/Siddami/Siddami/blob/main/githeader-sid.png" alt="Banner of a greeting and introduction of myself and stack with a DEV icon next to it on the far right" style="width:100%;">
 
 # Hi there, I'm Siddiqat 👋
 
