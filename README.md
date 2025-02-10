@@ -9,7 +9,7 @@
 <img src="https://github.com/Siddami/Siddami/blob/main/githeader-sid.png" alt="Banner of a greeting and introduction of myself and stack with a DEV icon next to it on the far right" style="width:100%;">
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=770&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Abdulkareem+Yetunde!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=770&height=70&color=4493F8&duration=4000&lines=Let's+go+through!+ a+bit+about+me;+Shall+We😁!;" />
 </h1>
 
 ### A **Frontend Developer** and **Tech Enthusiast** with a background in **Sociology** from the University of Ilorin. I’m also a **certified Frontend Developer** from the [3MTT Software Engineering](https://drive.google.com/file/d/1Fkqiaes32CLdGhBA88sgnznIJ8smGKrQ/view?usp=sharing) track and have completed [CS50’s Introduction to Computer Science](https://drive.google.com/file/d/1bbpY7yy-bWFx3Ydag9qH_dSx493hLtmE/view?usp=sharing).  
