@@ -28,9 +28,9 @@ With a robust foundation in web development and an expanding portfolio of projec
 
 ## 📚 My Current Study Path  
 I'm currently following the **[roadmap.sh](https://roadmap.sh/)** structured roadmap to strengthen my frontend skills. Alongside this, I'm expanding my expertise by **building real-world projects** and taking courses like:  
-- **[CS50’s Introduction to Computer Science](#)**  
 - **[Scrimba Frontend Developer Career Path](#)**  
-- **[Meta Frontend Developer Coursera Certification](#)**  
+- **[Meta Frontend Developer Coursera Certification](#)**
+- **[Women Techsters Fellowship Software Development- Frontend Learning track]**
 
 ## 🏆 My Experience  
 During the final phase of my **3MTT program**, I was a **Team Lead** for our capstone project, where we built a **software solution** from scratch. My responsibilities included:  
@@ -87,7 +87,7 @@ Through this experience, I gained valuable leadership, project management, and p
 <hr>
 
 ## Currently working on :
-[DeclutMart](https//:www.declutmart.com)
+[Skill relay]A mentorled collabprative project for the mentorship program.
 
 ### 🌱 Let's Connect!  
 Feel free to reach out for collaborations, open-source contributions, or just to connect:  
